@@ -1,0 +1,15 @@
+{
+  "name": "undertone",
+  "version": "1.0.0",
+  "description": "Bible study app.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jae Taylor",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.13.3",
+    "mongoose": "^3.8.37"
+  }
+}
