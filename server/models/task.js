@@ -3,7 +3,7 @@
 var mongoose = require('mongoose');
 
 // define properties for the object
-// Create the MovieSchema.
+// Create the TaskSchema.
 var TaskSchema = new mongoose.Schema({
   study: {
   type: String,
